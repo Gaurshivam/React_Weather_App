@@ -1,0 +1,45 @@
+body{
+    font-family: 'Jost', sans-serif;
+    background-color: turquoise;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.outbox{
+    text-align: center;
+    padding-top: 30px;
+    background:linear-gradient(90deg,rgb(246, 68, 195),rgb(8, 8, 118));
+    margin: 0%;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    
+}
+.box{
+    background-color: rgb(63, 18, 3);
+    padding-top: 30px;
+    height: 400px;
+    width: 460px;
+    margin-top: 40px;
+    border-radius: 20px;
+    margin: auto;
+}
+.inputFeild{
+    text-align: center;
+    color: rgb(14, 13, 6);
+    margin: auto;
+    width: 400px;
+    height: 40px;
+    font-size: 30px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.temp , .location, .tempmin_max, .wave{
+    text-align: center;
+    color: cornsilk;
+    font-family: 'Jost', sans-serif;
+    font-size: 30px;
+}
+p{
+    text-align: center;
+    color: cornsilk;
+}
